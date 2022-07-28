@@ -1,0 +1,58 @@
+
+/***************CLASS TAGS*****************/
+  .profile_picture:hover{
+    border-radius:20%;
+    outline-width: 2px;
+    outline-style: dotted;
+    outline-color: black;
+  }
+  .profile_picture{
+    border-radius:20%;
+    outline-width: 2px;
+    outline-style: solid;
+    outline-color: black;
+  }
+/*************REGULAR TAGS***************/
+hr{
+  width:100%;
+}
+img{
+  width:60%;
+  border-radius: 5%;
+  outline-width: 2px;
+  outline-style: solid;
+  outline-color: black;
+}
+img:hover{
+  outline-width: 2px;
+  outline-style: dotted;
+  outline-color: black;
+}
+
+
+
+
+
+
+
+
+
+
+
+/*  body {
+    background-color:blue ;
+  }
+
+  hr {
+    border-style: dotted none none;
+    border-color: grey;
+    border-width: 5px;
+    width:5%;
+  }
+h1{
+  color:black;
+}
+h3{
+  color:black;
+}
+*/
